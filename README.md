@@ -10,7 +10,7 @@ RAM: 3 GB DDR2 600 MHz
 OS: Windows 7 64 Bit Service Pack 1 or later  
 Free Disk Space: 20MB_  
   
-[Link to game only](https://github.com/AurasV/Finished-Console-Game)  
+[Link to code only](https://github.com/AurasV/Console-Game-2)  
   
 Credits:  
 ASCII Art done using [manytools](https://manytools.org/hacker-tools/convert-images-to-ascii-art/)  
