@@ -8,7 +8,7 @@ CPU Speed: 2.10 GHz
 GPU: GT 430 1GB Gainward Edition  
 RAM: 3 GB DDR2 600 MHz  
 OS: Windows 7 64 Bit Service Pack 1 or later  
-Free Disk Space: 20MB
+Free Disk Space: 20MB  
 This has been built and tested mostly on Windows 10 so I can't guarantee that it will work on older versions or Windows 11. I did run it on Windows 7 and it worked fine but not on Windows 8/8.1 or XP so don't expect support for that._
   
 [Link to code only](https://github.com/AurasV/Console-Game-2)  
