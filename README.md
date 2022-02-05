@@ -8,17 +8,17 @@ CPU Speed: 2.10 GHz
 GPU: GT 430 1GB Gainward Edition  
 RAM: 3 GB DDR2 600 MHz  
 OS: Windows 7 64 Bit Service Pack 1 or later  
-Free Disk Space: 20MB_  
+Free Disk Space: 20MB
+This has been built and tested mostly on Windows 10 so I can't guarantee that it will work on older versions or Windows 11. I did run it on Windows 7 and it worked fine but not on Windows 8/8.1 or XP so don't expect support for that._
   
 [Link to code only](https://github.com/AurasV/Console-Game-2)  
   
-Credits:  
+#### **Credits:** 
 ASCII Art done using [manytools](https://manytools.org/hacker-tools/convert-images-to-ascii-art/)  
 Story is based on The Elder Scrolls V: Skyrim  
 Weapons, items and enemies are from Minecraft  
 Romanian and English translations done by me  
 Programming done by me  
 Hungarian translation done by Vero  
-  
-  
-![140732825-35d83818-92db-48e7-9a56-78b625a62378](https://user-images.githubusercontent.com/80701407/142838556-f5c5cc31-4950-48af-9dad-59ac6f90dd20.png)
+
+![W7](https://user-images.githubusercontent.com/80701407/152657374-245b6954-e32b-438a-81d9-4bb1b2d342ef.png)
